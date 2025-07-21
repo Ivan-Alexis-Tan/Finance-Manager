@@ -22,13 +22,14 @@ The table below shows the **column name**, its **data type**, and **short descri
 | amount      | int64     | Transaction amount |
 | transaction | object    | Transaction type (income, expenses, etc.)
 | transaction_mode | object | Payment source or reservoir (bank, mobile bank, etc.) |
-| month       | int32     | Numerical detail of month (1 = Jan., 2 = Feb., etc.) |
-| day         | int32     | Numerical detail of date (example: the 1 in Dec. 1, 2024) |
+| month       | int32     | Numerical detail of month ($1$ = $\text{Jan}$., $2$ = $\text{Feb}$., etc.) |
+| day         | int32     | Numerical detail of date (example: the $1$ in $\text{Dec.}\: 1, 2024$) |
 | year        | int32     | Numerical detail of year |
 | detail_clean| object    | Cleaned detail for smoother detail analysis |
-| y/m         | object    | String year-month format ("24-12" = Dec. 2024) |
-| y/m/d       | object    | String format of date ("2024-12-01" = Dec. 1, 2024)|
+| y/m         | object    | String year-month format ($\text{"24-12"}$ = $\text{Dec.}\: 2024$) |
+| y/m/d       | object    | String format of date ($\text{"2024-12-01"}$ = $\text{Dec.}\: 1, 2024$)|
 | month sort no. | object | Sorting number of monthly transactions |
 
-
-
+## Executive Summary
+### Overview of Findings
+asdfasdfasdfasdfasd
