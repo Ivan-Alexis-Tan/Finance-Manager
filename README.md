@@ -32,4 +32,6 @@ The table below shows the **column name**, its **data type**, and **short descri
 
 ## Executive Summary
 ### Overview of Findings
-asdfasdfasdfasdfasd
+As the latest record is December 2025, the net income is increasing. Especially in the latest record, the month of $\text{Nov.}\: 2024\: \text{(24/11)}$ to $\text{Jan.}\: 2025\: \text{(25/1)}$, the average monthly income is increasing. Expenses are also needed to be monitored, though the data suggests that the monthly expenditures are not necessarily more than necessary, knowing the behavior of expenses could help handle monthly expenditures better.
+
+The dashboard below shows the overall findings of the analysis.
