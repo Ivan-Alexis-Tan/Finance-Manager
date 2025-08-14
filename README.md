@@ -32,6 +32,22 @@ The table below shows the **column name**, its **data type**, and **short descri
 
 ## Executive Summary
 ### Overview of Findings
-As the latest record is December 2025, the net income is increasing. Especially in the latest record, the month of $\text{Nov.}\: 2024\: \text{(24/11)}$ to $\text{Jan.}\: 2025\: \text{(25/1)}$, the average monthly income is increasing. Expenses are also needed to be monitored, though the data suggests that the monthly expenditures are not necessarily more than necessary, knowing the behavior of expenses could help handle monthly expenditures better.
+As the latest record is December 2025, the net income is increasing. Especially in the latest record, the month of $\text{Nov.}\: 2024\: \text{(24/11)}$ to $\text{Jan.}\: 2025\: \text{(25/1)}$, the average monthly income is increasing. Expenses are also needed to be monitored, though the data suggests that the monthly expenditures are not necessarily more than necessary. Knowing the behavior of expenses could help handle monthly expenditures better.
 
 The dashboard below shows the overall findings of the analysis.
+
+<img src='images\Analysis Dashboard.png' alt='Data Analysis Dashboard'>
+
+### Net Income   
+- The trend net income from $\text{Mar.}\: 2024\: \text{(24/3)}$ to $\text{Jul.}\: 2024\: \text{(24/7)}$ shows approximately no growth or drop of net income.
+    - This is due to lesser to typical or usual range amount of expenses during these months.
+        - The average net income of these months is just $4$% $(\text{Php}\: 683)$ below from the median.
+            - It is declining but too little to say there's signicant declination of net income.
+    - There is $46$% net margin (remaining money gained after all expenditures) during these months, making it $\text{Php}\: 89,486$.
+
+- Meanwhile, the net income from $\text{Aug.}\: 2024\: \text{(24/8)}$ to $\text{Jan.}\: 2025\: \text{(25/1)}$ is increasing.
+    - The net margin of these months is $58.26$% $(\text{Php}\: 102,955)$.
+    - The growth is $51$% above the median, which means the average growth of net income of these months is about $\text{Php}\: 8,126$.
+
+<img src='images\Net Income.png' alt='Data Analysis Dashboard'>
+
