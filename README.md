@@ -69,16 +69,28 @@ To explore or rerun the analysis:
    git clone https://github.com/Ivan-Alexis-Tan/Finance-Manager.git
    cd Finance-Manager
 
-2. Create and activate a virtual environment:
+2. **Create and activate a virtual environment:**
     ```bash
     python -m venv venv
     source venv/bin/activate    # on Mac/Linux
     venv\Scripts\activate       # on Windows
+    ```
 
-3. **Intall dependencies:**
+3. **Install dependencies:**
     ```bash
     pip install -r requirements.txt
+    ```
 
 4. **Run the program:**
     ```bash
     jupyter notebook "Personal Finance Analysis.ipynb"
+    ```
+
+## Skills Demonstrated  
+
+- **Data Cleaning & Transformation:** pandas for handling raw CSV → structured database format.  
+- **Data Storage & Management:** MySQL integration for structured querying.  
+- **Statistical Analysis:** Bootstrap confidence intervals, hypothesis testing for benchmark comparisons.  
+- **Data Visualization:** Matplotlib & Seaborn for trend analysis and dashboards.  
+- **Reproducible Research:** Jupyter Notebook workflows with requirements.txt for environment setup.  
+- **Version Control:** Git/GitHub for project tracking and collaboration.  
