@@ -1,0 +1,701 @@
+﻿trans_no,date,details,amount,transaction,transaction_mode
+1,9/14/2023,サラリー,17732,Income,Bank
+2,10/9/2023,サラリー,12754,Income,Bank
+3,10/15/2023,bank withdraw ,26142,Withdraw,Bank
+4,10/15/2023,stash deposit,26142,Deposit,Stash
+5,10/31/2023,サラリー,12834,Income,Bank
+6,11/5/2023,Monthly gasoline (oct),2550,Expenses,Stash
+7,11/5/2023,Balay (Oct),5000,Expenses,Stash
+8,11/5/2023,Tahong harvest,12560,Income,Stash
+9,11/5/2023,pansit canton,56,Expenses,Stash
+10,11/5/2023,monay,30,Expenses,Stash
+11,11/5/2023,Gcash cash-in,2010,Withdraw,Stash
+12,11/5/2023,Gcash cash-in,2010,Deposit,G-cash
+13,11/5/2023,Ink,1000,Expenses,Stash
+14,11/6/2023,Oishi,20,Expenses,Stash
+15,11/6/2023,Spotify,194,Expenses,G-cash
+16,11/10/2023,Monay (1 putos),30,Expenses,Stash
+17,11/10/2023,Century Tuna,43,Expenses,Stash
+18,11/13/2023,Tatoos,12,Expenses,Stash
+19,11/13/2023,Supa,25,Expenses,G-cash
+20,11/13/2023,Supa,125,Expenses,G-cash
+21,11/14/2023,Mineral water,25,Expenses,Stash
+22,11/15/2023,Supa,125,Expenses,G-cash
+23,11/16/2023,Mineral water,25,Expenses,Stash
+24,11/17/2023,Mang Juan,12,Expenses,Stash
+25,11/17/2023,Mineral water,25,Expenses,Stash
+26,11/18/2023,Bayad referee ,300,Expenses,Stash
+27,11/18/2023,chalk,20,Expenses,Stash
+28,11/18/2023,Income (with bonus?),44732,Income,Bank
+29,11/16/2023,Monay (1 putos),30,Expenses,Stash
+30,11/22/2023,YT Membership,129,Expenses,G-cash
+31,11/22/2023,Genshin Welkin,280,Expenses,G-cash
+32,11/23/2023,Supa,125,Expenses,G-cash
+33,11/30/2023,サラリー,12734,Income,Bank
+34,12/2/2023,Supa,125,Expenses,G-cash
+35,12/3/2023,kape,265,Expenses,Stash
+36,12/4/2023,bioderm,25,Expenses,Stash
+37,12/4/2023,Ebo Sweldo,1500,Expenses,Stash
+38,12/6/2023,Spotify,239,Expenses,G-cash
+39,12/7/2023,Mineral water,25,Expenses,Stash
+40,12/8/2023,Supa,125,Expenses,G-cash
+41,12/9/2023,Pasahe,30,Expenses,Stash
+42,12/9/2023,Pamahaw,45,Expenses,Stash
+43,12/9/2023,Mineral water,30,Expenses,Stash
+44,12/9/2023,Choco-choco,20,Expenses,Stash
+45,12/9/2023,Star bread,40,Expenses,Stash
+46,12/9/2023,Pamasahe,90,Expenses,Stash
+47,12/9/2023,Noodles beef,13,Expenses,Stash
+48,12/10/2023,balay (nov),5000,Expenses,Stash
+49,12/10/2023,Gasolina (nov),2100,Expenses,Stash
+50,12/11/2023,Bioderm,25,Expenses,Stash
+51,12/11/2023,Mineral water,30,Expenses,Stash
+52,12/11/2023,Aragmot (chrsPty_simba),544,Expenses,Stash
+53,12/13/2023,Family day price,50,Expenses,Stash
+54,12/13/2023,Mineral water,20,Expenses,Stash
+55,12/14/2023,サラリー,12732,Income,Bank
+56,12/14/2023,Gcash cash-in,3000,Withdraw,G-cash
+57,12/14/2023,Gcash cash-in,3000,Deposit,G-cash
+58,12/14/2023,wifi load (magic data),599,Expenses,G-cash
+59,12/15/2023,pamasahe (lamingao - villa),30,Expenses,Stash
+60,12/15/2023,pamasahe (pantalan - sakayan),15,Expenses,Stash
+61,12/15/2023,pamasahe (Villareal - Tacloban),120,Expenses,Stash
+62,12/15/2023,pamahaw,142,Expenses,Stash
+63,12/15/2023,bank withdraw ,19036,Withdraw,Bank
+64,12/15/2023,stash deposit,19000,Deposit,Stash
+65,12/15/2023,laptop upgrade labor,1500,Expenses,Stash
+66,12/15/2023,battery ,3600,Expenses,Stash
+67,12/15/2023,SSD,2900,Expenses,Stash
+68,12/15/2023,HDD enclosure ,599,Expenses,Stash
+69,12/15/2023,tinapay,20,Expenses,Stash
+70,12/15/2023,lubi shake,60,Expenses,Stash
+71,12/15/2023,pamasahe (tacloban - villa),120,Expenses,Stash
+72,12/15/2023,pamasahe (villareal - Lamingao),150,Expenses,Stash
+73,12/18/2023,bioderm,25,Expenses,Stash
+74,12/18/2023,wow ulam,30,Expenses,Stash
+75,12/18/2023,Genshin Welkin,280,Expenses,G-cash
+76,12/19/2023,wifi load (family access),199,Expenses,G-cash
+77,12/21/2023,Steam (nirvanA Initiative),768,Expenses,G-cash
+78,12/22/2023,YT Membership,129,Expenses,G-cash
+79,12/23/2023,pamasahe (lamingao - villa),30,Expenses,Stash
+80,12/23/2023,pandesal,10,Expenses,Stash
+81,12/23/2023,tubig,15,Expenses,Stash
+82,12/23/2023,pamasahe (villa - kasang-an),50,Expenses,Stash
+83,12/23/2023,utang sir caro,50,Expenses,Stash
+84,12/23/2023,tubig,20,Expenses,Stash
+85,12/23/2023,fita,10,Expenses,Stash
+86,12/23/2023,SRI,18000,Income,Stash
+87,12/23/2023,district t-shirt,600,Expenses,Stash
+88,12/23/2023,pamasahe (kasang-an - villa,150,Expenses,Stash
+89,12/23/2023,putok,20,Expenses,Stash
+90,12/23/2023,tubig,15,Expenses,Stash
+91,12/23/2023,pamasahe (villa - pantalan),15,Expenses,Stash
+92,12/23/2023,pamasahe (villa - lamingao),50,Expenses,Stash
+93,12/23/2023,hatag kanda mama,3000,Expenses,Stash
+94,12/24/2023,tuba,400,Expenses,Stash
+95,12/24/2023,pepsi,100,Expenses,Stash
+96,12/25/2023,tuba,100,Expenses,Stash
+97,12/26/2023,wifi load (family access),199,Expenses,G-cash
+98,12/28/2023,pamasahe (lamingao - villa),30,Expenses,Stash
+99,12/28/2023,pamasahe (villa - tacloban),120,Expenses,Stash
+100,12/28/2023,medisina,1375,Expenses,Stash
+101,12/28/2023,pagkaon,157,Expenses,Stash
+102,12/28/2023,laptop keyboard,2600,Expenses,Stash
+103,12/28/2023,keyboard labor,500,Expenses,Stash
+104,12/28/2023,shawarma,500,Expenses,Stash
+105,12/28/2023,pamasahe (tacloban - villa),120,Expenses,Stash
+106,12/28/2023,サラリー,12733,Income,Bank
+107,12/31/2023,coke 1.5 (2 pcs),160,Expenses,Stash
+108,1/1/2024,irimnon,200,Expenses,Stash
+109,1/4/2024,"Gcash cash-in (aragmot kanda(ate angie, mam angel)",784,Deposit,G-cash
+110,1/6/2024,Spotify,239,Expenses,G-cash
+111,1/7/2024,Supa,125,Expenses,G-cash
+112,1/7/2024,Supa,50,Expenses,G-cash
+113,1/7/2024,Gcash cash-in (aragmot kan(mam jonna),380,Deposit,G-cash
+114,1/7/2024,Steam (Left 4 Dead 2),34,Expenses,G-cash
+115,1/8/2024,aragmot (trainer),392,Expenses,Stash
+116,1/8/2024,"aragmot (trainer kanda(ate angie, mam angel, mam jonna))",1176,Withdraw,Stash
+117,1/8/2024,Supa,25,Expenses,G-cash
+118,1/9/2024,Supa,50,Expenses,G-cash
+119,1/9/2024,aragmot (festival trainer),50,Expenses,Stash
+120,1/9/2024,aragmot (misa sponsor),123,Expenses,Stash
+121,1/9/2024,aragmot (kan mam jonna),173,Deposit,G-cash
+122,1/9/2024,aragmot (kan mam jonna),173,Withdraw,G-cash
+123,1/12/2024,black shoes,930,Expenses,Stash
+124,1/12/2024,bluetooth speaker,1990,Expenses,Stash
+125,1/12/2024,USB port extension,695,Expenses,Stash
+126,1/12/2024,crispy king paniudto,77,Expenses,Stash
+127,1/12/2024,shawarma,300,Expenses,Stash
+128,1/12/2024,pamasahe (catbalogan - pier 1),10,Expenses,Stash
+129,1/12/2024,pamasahe (lamingao - catbalogan x4),600,Expenses,Stash
+130,1/12/2024,Gasolina (dec),1050,Expenses,Stash
+131,1/12/2024,Genshin Welkin,280,Expenses,G-cash
+132,1/14/2024,Kape 2x,260,Expenses,Stash
+133,1/14/2024,サラリー,12732,Income,Bank
+134,1/15/2024,Irimnon,300,Expenses,Stash
+135,1/15/2024,Supa,125,Expenses,G-cash
+136,1/17/2024,irimnon,200,Expenses,Stash
+137,1/18/2024,Supa,125,Expenses,G-cash
+138,1/19/2024,Supa,125,Expenses,G-cash
+139,1/20/2024,Supa,125,Expenses,G-cash
+140,1/21/2024,Supa,125,Expenses,G-cash
+141,1/22/2024,YT Membership,129,Expenses,G-cash
+142,1/22/2024,tapar para kan sir Rugie,50,Expenses,Stash
+143,1/24/2024,Supa,125,Expenses,G-cash
+144,1/24/2024,Supa,25,Expenses,G-cash
+145,1/25/2024,Supa,125,Expenses,G-cash
+146,1/28/2024,サラリー,12734,Income,Bank
+147,1/29/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+148,1/29/2024,pamahaw,45,Expenses,Stash
+149,1/29/2024,paniudto,85,Expenses,Stash
+150,1/29/2024,snack,35,Expenses,Stash
+151,1/29/2024,pamasahe (villa - lamingao),30,Expenses,Stash
+152,1/30/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+153,1/30/2024,pamahaw,45,Expenses,Stash
+154,1/30/2024,pamasahe,15,Expenses,Stash
+155,1/30/2024,paniudto,58,Expenses,Stash
+156,1/30/2024,Mineral water,15,Expenses,Stash
+157,1/30/2024,snack,20,Expenses,Stash
+158,1/30/2024,pamahase (villa - lamingao),30,Expenses,Stash
+159,1/31/2024,Mineral water,25,Expenses,Stash
+160,1/31/2024,Supa,125,Expenses,G-cash
+161,2/1/2024,Supa,125,Expenses,G-cash
+162,2/1/2024,wifi load (magic data),599,Expenses,G-cash
+163,2/1/2024,Supa,50,Expenses,G-cash
+164,2/1/2024,Supa,50,Expenses,G-cash
+165,2/3/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+166,2/3/2024,pamahaw,45,Expenses,Stash
+167,2/3/2024,pandesal,10,Expenses,Stash
+168,2/3/2024,paniudto,40,Expenses,Stash
+169,2/3/2024,pamasahe (villa - lamingao),50,Expenses,Stash
+170,2/3/2024,tuba,200,Expenses,Stash
+171,2/6/2024,Ebo Sweldo,1500,Expenses,Stash
+172,2/7/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+173,2/7/2024,pamahaw,45,Expenses,Stash
+174,2/7/2024,pamasahe (villa - catbalogan),120,Expenses,Stash
+175,2/7/2024,bag sena,1099,Expenses,Bank
+176,2/7/2024,boxer shorts walker,837,Expenses,Bank
+177,2/7/2024,ID picture (michaela),75,Expenses,Stash
+178,2/7/2024,paste,25,Expenses,Stash
+179,2/7/2024,photopaper,98,Expenses,Stash
+180,2/7/2024,paniudto,85,Expenses,Stash
+181,2/7/2024,bank withdraw ,1500,Withdraw,Bank
+182,2/7/2024,bank withdraw ,1500,Deposit,Stash
+183,2/7/2024,shawarma,300,Expenses,Stash
+184,2/7/2024,tsinelas,300,Expenses,Stash
+185,2/7/2024,medisina,348,Expenses,Stash
+186,2/7/2024,notaryo,200,Expenses,Stash
+187,2/7/2024,pamasahe (catbalogan - terminal),10,Expenses,Stash
+188,2/7/2024,pamasahe (terminal - villa),130,Expenses,Stash
+189,2/7/2024,Gcash cash-in,3000,Deposit,G-cash
+190,2/7/2024,Gcash cash-in,3000,Withdraw,Stash
+191,2/7/2024,Spotify,239,Expenses,G-cash
+192,2/9/2024,Gasolina (jan),2000,Expenses,Stash
+193,2/9/2024,balay (jan),5000,Expenses,Stash
+194,2/9/2024,wifi load (family access),199,Expenses,G-cash
+195,2/9/2024,Steam (Yakuza 0),280,Expenses,G-cash
+196,2/9/2024,wifi load (family access),199,Expenses,G-cash
+197,2/10/2024,Kape 2x,260,Expenses,Stash
+198,2/12/2024,bioderm,48,Expenses,Stash
+199,2/15/2024,pasahe (villa II - villa),25,Expenses,Stash
+200,2/15/2024,Earphone,180,Expenses,Stash
+201,2/15/2024,snack,68,Expenses,Stash
+202,2/15/2024,サラリー,12597,Income,Bank
+203,2/15/2024,pansit canton,28,Expenses,Bank
+204,2/15/2024,Steam (vampire survivors),144,Expenses,G-cash
+205,2/16/2024,snack,50,Expenses,Stash
+206,2/16/2024,wifi load (family access),199,Expenses,G-cash
+207,2/16/2024,Steam (overcooked 2),199,Expenses,G-cash
+208,2/20/2024,coke 1.5,90,Expenses,Stash
+209,2/21/2024,Genshin Welkin,280,Expenses,G-cash
+210,2/22/2024,Supa,129,Expenses,G-cash
+211,2/24/2024,bioderm,48,Expenses,Stash
+212,2/27/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+213,2/27/2024,pamahaw,45,Expenses,Stash
+214,2/27/2024,pamasahe (villa - tacloban),130,Expenses,Stash
+215,2/27/2024,pamasahe (terminal - downtown),13,Expenses,Stash
+216,2/27/2024,pamasahe (downtown - terminal),13,Expenses,Stash
+217,2/27/2024,paniudto,157,Expenses,Stash
+218,2/27/2024,earpod,899,Expenses,Stash
+219,2/27/2024,pamasahe (tacloban - villa),130,Expenses,Stash
+220,2/27/2024,pamasahe (villa - lamingao),100,Expenses,Stash
+221,2/29/2024,さラリー,12598,Income,Bank
+222,3/2/2024,coke,20,Expenses,Stash
+223,3/2/2024,Supa,125,Expenses,G-cash
+224,3/3/2024,Kape 2x,260,Expenses,Stash
+225,3/3/2024,Gasolina (feb 2024),2560,Expenses,Stash
+226,3/3/2024,balay (feb 2024),5000,Expenses,Stash
+227,3/3/2024,Ebo Sweldo,1500,Expenses,Stash
+228,3/3/2024,Arot,30,Expenses,Stash
+229,3/5/2024,bioderm,48,Expenses,Stash
+230,3/5/2024,Supa,50,Expenses,G-cash
+231,3/5/2024,Supa,125,Expenses,G-cash
+232,3/6/2024,Spotify,239,Expenses,G-cash
+233,3/10/2024,bank withdraw,19900,Withdraw,Bank
+234,3/10/2024,bank withdraw fee,36,Expenses,Bank
+235,3/10/2024,ref (hulog),7000,Expenses,Stash
+236,3/14/2024,さラリー,12579,Income,Bank
+237,3/14/2024,wifi load (magic data),599,Expenses,G-cash
+238,3/18/2024,Monay (1 putos),30,Expenses,Stash
+239,3/22/2024,YT Membership,129,Expenses,G-cash
+240,3/23/2024,Gcash cash-in,3000,Withdraw,Stash
+241,3/23/2024,Gcash cash-in,3000,Deposit,G-cash
+242,3/23/2024,Genshin Welkin,280,Expenses,G-cash
+243,3/27/2024,ketchup,25,Expenses,Stash
+244,3/27/2024,coke 1.5,90,Expenses,Stash
+245,3/27/2024,pansit canton,56,Expenses,Stash
+246,3/27/2024,さラリー,12616,Income,Bank
+247,3/27/2024,wifi load (family access),199,Expenses,G-cash
+248,3/30/2024,inom,200,Expenses,Stash
+249,3/30/2024,panilot,50,Expenses,Stash
+250,3/31/2024,sabon powder,8,Expenses,Stash
+251,3/31/2024,kape,130,Expenses,Stash
+252,4/2/2024,Ebo Sweldo,1500,Expenses,Stash
+253,4/2/2024,Supa,50,Expenses,G-cash
+254,4/5/2024,Supa,125,Expenses,G-cash
+255,4/5/2024,halo-halo (4x),40,Expenses,Stash
+256,4/6/2024,Spotify,239,Expenses,G-cash
+257,4/7/2024,Gasolina (mar),2560,Expenses,Stash
+258,4/7/2024,balay,5000,Expenses,Stash
+259,4/9/2024,brutsa,50,Expenses,Stash
+260,4/9/2024,bank withdraw,12995,Withdraw,Bank
+261,4/9/2024,bank withdraw fee,100,Expenses,Stash
+262,4/9/2024,clothing allowance,6000,Income,Bank
+263,4/10/2024,coke 1.5,80,Expenses,Stash
+264,4/15/2024,さラリー,13615,Income,Bank
+265,4/16/2024,kape,130,Expenses,Stash
+266,4/16/2024,sabon powder (1 tie),43,Expenses,Stash
+267,4/16/2024,bioderm,25,Expenses,Stash
+268,4/16/2024,Supa,125,Expenses,G-cash
+269,4/20/2024,wifi load (magic data),599,Expenses,G-cash
+270,4/21/2024,bioderm,25,Expenses,Stash
+271,4/21/2024,Genshin Welkin,280,Expenses,G-cash
+272,4/22/2024,YT Membership,129,Expenses,G-cash
+273,4/22/2024,wifi load (family access),199,Expenses,G-cash
+274,4/30/2024,Palaman peanut,500,Expenses,G-cash
+275,4/30/2024,Tolits financial assistance,1000,Expenses,Stash
+276,4/30/2024,Tito patron assistance,2000,Expenses,Stash
+277,4/30/2024,Lola Rosa patron assistance,1000,Expenses,Stash
+278,4/30/2024,サラリー,12616,Income,Bank
+279,4/30/2024,Kape 2x,260,Expenses,Stash
+280,5/3/2024,Ebo Sweldo,1700,Expenses,Stash
+281,5/3/2024,Supa,50,Expenses,G-cash
+282,5/3/2024,Supa,125,Expenses,G-cash
+283,5/3/2024,wifi load (family access),199,Expenses,G-cash
+284,5/4/2024,bank withdraw,19000,Withdraw,Bank
+285,5/4/2024,bank withdraw fee,236,Expenses,Bank
+286,5/4/2024,Gasolina (april),2100,Expenses,Stash
+287,5/4/2024,balay,5000,Expenses,Stash
+288,5/4/2024,Gcash cash-in,3000,Withdraw,Stash
+289,5/4/2024,Gcash cash-in,3000,Deposit,G-cash
+290,5/6/2024,Supa,125,Expenses,G-cash
+291,5/6/2024,Supa,50,Expenses,G-cash
+292,5/7/2024,Spotify,239,Expenses,G-cash
+293,5/8/2024,Monay (1 putos),30,Expenses,Stash
+294,5/13/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+295,5/13/2024,Pamahaw,37,Expenses,Stash
+296,5/13/2024,paniudto,73,Expenses,Stash
+297,5/13/2024,pamasahe (villa - lamingao),40,Expenses,Stash
+298,5/13/2024,mobile load (magic data),399,Expenses,G-cash
+299,5/14/2024,サラリー,12615,Income,Bank
+300,5/15/2024,Monay (1 putos),30,Expenses,Stash
+301,5/16/2024,ボーナスサラリー,27000,Income,Bank
+302,5/18/2024,Supa,50,Expenses,G-cash
+303,5/22/2024,YT Membership,129,Expenses,G-cash
+304,5/22/2024,Genshin Welkin,280,Expenses,G-cash
+305,5/23/2024,folder ,50,Expenses,Stash
+306,5/23/2024,Kape 2x,260,Expenses,Stash
+307,5/23/2024,wifi load (family access),199,Expenses,G-cash
+308,5/28/2024,aragmot (recognition hosting),246,Expenses,Stash
+309,5/28/2024,aragmot (graduation),440,Expenses,Stash
+310,5/28/2024,Supa,125,Expenses,G-cash
+311,5/30/2024,サラリー,12615,Income,Bank
+312,6/2/2024,tubig,105,Expenses,Stash
+313,6/4/2024,Supa,125,Expenses,G-cash
+314,6/5/2024,wifi load (magic data),699,Expenses,G-cash
+315,6/6/2024,Supa,125,Expenses,G-cash
+316,6/6/2024,Ebo Sweldo,1500,Expenses,Stash
+317,6/6/2024,Spotify,239,Expenses,G-cash
+318,6/7/2024,balay,5000,Expenses,Stash
+319,6/7/2024,Gasolina,2400,Expenses,Stash
+320,6/7/2024,bioderm,25,Expenses,Stash
+321,6/7/2024,Supa,25,Expenses,G-cash
+322,6/7/2024,Supa,125,Expenses,G-cash
+323,6/7/2024,Supa,50,Expenses,G-cash
+324,6/10/2024,pasahe (villa - tacloban),240,Expenses,Stash
+325,6/10/2024,Mcdo,328,Expenses,Stash
+326,6/10/2024,withdraw (atm),19000,Withdraw,Bank
+327,6/10/2024,withdraw charges,38,Expenses,Bank
+328,6/10/2024,deposit (to stash),19000,Deposit,Stash
+329,6/10/2024,ID picture (Asayas),170,Expenses,Stash
+330,6/10/2024,pamasahe (prc - mercury),15,Expenses,Stash
+331,6/10/2024,Jollibee,451,Expenses,Stash
+332,6/10/2024,Sheena (Exam fee),5000,Expenses,Stash
+333,6/10/2024,mango shake,70,Expenses,Stash
+334,6/10/2024,aficionado (F28),320,Expenses,Stash
+335,6/10/2024,pasahe (tacloban - villa),360,Expenses,Stash
+336,6/10/2024,Gcash cash-in,200,Withdraw,Stash
+337,6/10/2024,Gcash cash-in,200,Deposit,G-cash
+338,6/10/2024,wifi load (family access),199,Expenses,G-cash
+339,6/11/2024,Gcash cash-in (NLC),1500,Deposit,G-cash
+340,6/11/2024,Gcash cash-out (NLC; to mam Daisy),750,Withdraw,G-cash
+341,6/13/2024,さラリー,12615,Income,Bank
+342,6/13/2024,Supa,125,Expenses,G-cash
+343,6/14/2024,Supa,50,Expenses,G-cash
+344,6/15/2024,Kape 2x,260,Expenses,Stash
+345,6/15/2024,Gcash cash-in,3000,Withdraw,Stash
+346,6/15/2024,Gacash cash-in,3000,Deposit,G-cash
+347,6/19/2024,irimnon,250,Expenses,Stash
+348,6/19/2024,gasolina,75,Expenses,Stash
+349,6/20/2024,wifi load (family access),199,Expenses,G-cash
+350,6/20/2024,Supa,50,Expenses,G-cash
+351,6/21/2024,YT Membership,129,Expenses,G-cash
+352,6/22/2024,Membership gift,129,Expenses,G-cash
+353,6/23/2024,Supa,50,Expenses,G-cash
+354,6/23/2024,Supa,50,Expenses,G-cash
+355,6/23/2024,Supa,125,Expenses,G-cash
+356,6/23/2024,irimnon,240,Expenses,Stash
+357,6/27/2024,サラリー,12616,Income,Stash
+358,6/27/2024,Supa,50,Expenses,G-cash
+359,6/27/2024,Supa,50,Expenses,G-cash
+360,6/28/2024,Membership gift,129,Expenses,G-cash
+361,6/28/2024,Supa,125,Expenses,G-cash
+362,6/28/2024,Sheena ,150,Expenses,G-cash
+363,6/28/2024,pamasahe (lamingao - catbalogan),150,Expenses,Stash
+364,6/28/2024,Jollibee,178,Expenses,Stash
+365,6/28/2024,eco-bag,16,Expenses,Stash
+366,6/28/2024,pasahe,10,Expenses,Stash
+367,6/28/2024,tubig,12,Expenses,Stash
+368,6/28/2024,pamasahe (catbalogan - villa),150,Expenses,Stash
+369,6/28/2024,pamasahe (villa - lamingao),50,Expenses,Stash
+370,6/28/2024,bank withdraw,220000,Withdraw,Bank
+371,6/28/2024,stash deposit,220000,Deposit,Stash
+372,7/1/2024,wifi load (family access),199,Expenses,G-cash
+373,7/4/2024,balay,5000,Expenses,Stash
+374,7/4/2024,Kape 2x,260,Expenses,Stash
+375,7/6/2024,Spotify,239,Expenses,G-cash
+376,7/10/2024,bioderm 3 bxs,144,Expenses,Stash
+377,7/10/2024,steam summer sale,188,Expenses,G-cash
+378,7/10/2024,supa,50,Expenses,G-cash
+379,7/10/2024,supa,125,Expenses,G-cash
+380,7/11/2024,gaming chair,2542,Expenses,Stash
+381,7/12/2024,Supa,50,Expenses,G-cash
+382,7/15/2024,cellophane ,30,Expenses,Stash
+383,7/15/2024,サラリー,12663,Income,Bank
+384,7/16/2024,pancit canton,45,Expenses,Stash
+385,7/16/2024,plywood sta clara,1195,Expenses,Stash
+386,7/16/2024,epoxy el kapitan,455,Expenses,Stash
+387,7/16/2024,bronze nail,550,Expenses,Stash
+388,7/16/2024,labor,2000,Expenses,Stash
+389,7/17/2024,jolly-spagetti (1 topperware),237,Expenses,Stash
+390,7/17/2024,jolly-burger,160,Expenses,Stash
+391,7/17/2024,wifi load (family access),199,Expenses,G-cash
+392,7/17/2024,wifi load (magic data),699,Expenses,G-cash
+393,7/19/2024,irimnon,600,Expenses,Stash
+394,7/19/2024,pepsi,150,Expenses,Stash
+395,7/19/2024,handa (birthday),4000,Expenses,Stash
+396,7/20/2024,irimnon,1200,Expenses,Stash
+397,7/21/2024,Gcash cash-in,3000,Withdraw,Stash
+398,7/21/2024,Gcash cash-in,3400,Deposit,G-cash
+399,7/22/2024,YT Membership,129,Expenses,G-cash
+400,7/22/2024,welcome party aragmot,650,Expenses,G-cash
+401,7/23/2024,bokbok,150,Expenses,Stash
+402,7/25/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+403,7/25/2024,pamahaw,30,Expenses,Stash
+404,7/25/2024,pandesal,10,Expenses,Stash
+405,7/25/2024,diatabs,30,Expenses,Stash
+406,7/25/2024,pamasahe (villa - lamingao),30,Expenses,Stash
+407,7/25/2024,donation,125,Expenses,G-cash
+408,7/26/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+409,7/26/2024,lomotil,14,Expenses,Stash
+410,7/26/2024,pandesal,10,Expenses,Stash
+411,7/26/2024,tubig,15,Expenses,Stash
+412,7/26/2024,pamasahe (villa - lamingao),15,Expenses,Stash
+413,7/26/2024,サラリー,12615,Income,Stash
+414,7/27/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+415,7/27/2024,pandesal,10,Expenses,Stash
+416,7/27/2024,tubig,15,Expenses,Stash
+417,7/27/2024,pamasahe (villa - lamingao),30,Expenses,Stash
+418,7/30/2024,cash allowance,5000,Income,Bank
+419,7/30/2024,supa,125,Expenses,G-cash
+420,7/30/2024,Supa,125,Expenses,G-cash
+421,7/31/2024,yakult,65,Expenses,Stash
+422,8/1/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+423,8/1/2024,paniudto,70,Expenses,Stash
+424,8/2/2024,wifi load (family access),199,Expenses,G-cash
+425,8/3/2024,yakult,75,Expenses,Stash
+426,8/3/2024,piatos,25,Expenses,Stash
+427,8/4/2024,gasolina,750,Expenses,Stash
+428,8/4/2024,balay,5000,Expenses,Stash
+429,8/4/2024,sphero (1 L),290,Expenses,Stash
+430,8/4/2024,epoxy,220,Expenses,Stash
+431,8/4/2024,pintura orange (1 L),290,Expenses,Stash
+432,8/4/2024,pintura blue (1 can),90,Expenses,Stash
+433,8/4/2024,mano tantan,100,Expenses,Stash
+434,8/6/2024,Spotify,239,Expenses,G-cash
+435,8/9/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+436,8/9/2024,pamahaw,30,Expenses,Stash
+437,8/9/2024,yakult,60,Expenses,Stash
+438,8/9/2024,pamasahe (villa - lamingao),30,Expenses,Stash
+439,8/9/2024,wifi load (family access),199,Expenses,G-cash
+440,8/10/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+441,8/10/2024,pandesal,10,Expenses,Stash
+442,8/10/2024,tubig,15,Expenses,Stash
+443,8/10/2024,boysen lemon yellow (1/4 L),120,Expenses,Stash
+444,8/10/2024,Epoxy Red oxide (1 L),290,Expenses,Stash
+445,8/12/2024,chalk allowance,5000,Income,Bank
+446,8/12/2024,サラリー,12615,Income,Bank
+447,8/15/2024,Supa,125,Expenses,G-cash
+448,8/18/2024,chalk,20,Expenses,Stash
+449,8/18/2024,yakult,75,Expenses,Stash
+450,8/18/2024,soft drinks 1.5L,70,Expenses,Stash
+451,8/23/2024,Kape 2x,260,Expenses,Stash
+452,8/27/2024,aragmot (induction),180,Expenses,Stash
+453,8/27/2024,microsoft office install,300,Expenses,Stash
+454,8/28/2024,bioderm,25,Expenses,Stash
+455,8/28/2024,gala,200,Expenses,Stash
+456,8/28/2024,coke mismo (2 case),460,Expenses,Stash
+457,8/29/2024,bag,1000,Expenses,G-cash
+458,8/30/2024,サラリー,12617,Income,Bank
+459,8/30/2024,ぴびび,12400,Income,Bank
+460,8/31/2024,mano tantan,200,Expenses,Stash
+461,9/2/2024,sura,40,Expenses,Stash
+462,9/4/2024,supa,125,Expenses,G-cash
+463,9/5/2024,supa,50,Expenses,G-cash
+464,9/5/2024,YT sticker,15,Expenses,G-cash
+465,9/5/2024,supa,25,Expenses,G-cash
+466,9/5/2024,sura,40,Expenses,Stash
+467,9/6/2024,Spotify,239,Expenses,G-cash
+468,9/7/2024,bonay,22,Expenses,Stash
+469,9/11/2024,mano tantan,100,Expenses,Stash
+470,9/12/2024,mano tantan,150,Expenses,Stash
+471,9/12/2024,supa,125,Expenses,G-cash
+472,9/13/2024,サラリー,25418,Income,Bank
+473,9/14/2024,balay,5000,Expenses,Stash
+474,9/14/2024,gasolina,2550,Expenses,Stash
+475,9/14/2024,Gcash cash-in,2150,Withdraw,Stash
+476,9/14/2024,Gcash cash-in,2150,Deposit,G-cash
+477,9/14/2024,sheena,300,Expenses,Stash
+478,9/16/2024,pamasahe (guimbalangawan - guintarcan),20,Expenses,Stash
+479,9/17/2024,pamasahe (guimbalangawan - guintarcan),20,Expenses,Stash
+480,9/17/2024,pamasahe (guintarcan - guimbalangawan),20,Expenses,Stash
+481,9/18/2024,pamasahe (guimbalangawan - guintarcan),20,Expenses,Stash
+482,9/19/2024,notebook,35,Expenses,Stash
+483,9/19/2024,chalk,20,Expenses,Stash
+484,9/19/2024,paniudto,55,Expenses,Stash
+485,9/20/2024,wifi load (magic data),700,Expenses,G-cash
+486,9/20/2024,wifi load (family access),200,Expenses,G-cash
+487,9/20/2024,coke mismo,450,Expenses,Stash
+488,9/20/2024,gala,500,Expenses,Stash
+489,9/21/2024,tito dondon,200,Expenses,Stash
+490,9/21/2024,Kape 2x,260,Expenses,Stash
+491,9/22/2024,YT Membership,129,Expenses,G-cash
+492,9/24/2024,mano tantan,100,Expenses,Stash
+493,9/25/2024,sura,30,Expenses,Stash
+494,9/26/2024,サラリー,13202,Income,Stash
+495,9/27/2024,aragmot (teachers day),500,Deposit,G-cash
+496,9/28/2024,coke 1.5,80,Expenses,Stash
+497,9/30/2024,science quiz bee rewards,100,Expenses,Stash
+498,10/4/2024,aragmot (teachers day),1365,Expenses,Stash
+499,10/4/2024,pamasahe (lamingao - villa),30,Expenses,Stash
+500,10/4/2024,tubig,20,Expenses,Stash
+501,10/4/2024,pandesal,10,Expenses,Stash
+502,10/4/2024,pamasahe (villa - tacloban),120,Expenses,Stash
+503,10/4/2024,pamahaw,218,Expenses,Stash
+504,10/4/2024,aragmot (teachers day),855,Deposit,G-cash
+505,10/5/2024,burger,45,Expenses,Stash
+506,10/5/2024,pamasahe (downtown - terminal),13,Expenses,Stash
+507,10/5/2024,shawarma,290,Expenses,Stash
+508,10/5/2024,pamasahe (tacloban - villa),120,Expenses,Stash
+509,10/5/2024,pamasahe (villa - lamingao),50,Expenses,Stash
+510,10/5/2024,supa,125,Expenses,G-cash
+511,10/5/2024,Supa,50,Expenses,G-cash
+512,10/6/2024,Spotify,239,Expenses,G-cash
+513,10/8/2024,intrams props,500,Expenses,Stash
+514,10/10/2024,sura,35,Expenses,Stash
+515,10/10/2024,wifi load (family access),199,Expenses,G-cash
+516,10/13/2024,???,1021,Income,Bank
+517,10/13/2024,gasolina (sept 24),3150,Expenses,Stash
+518,10/13/2024,balay (sept 24),5000,Expenses,Stash
+519,10/13/2024,sheena paayad,1750,Expenses,Stash
+520,10/14/2024,pasahe (guimbalangawan - guintarcan),20,Expenses,Stash
+521,10/14/2024,sura,15,Expenses,Stash
+522,10/14/2024,サラリー,13240,Income,Bank
+523,10/16/2024,sura,45,Expenses,Stash
+524,10/16/2024,scouting membership,50,Expenses,Stash
+525,10/16/2024,supa,125,Expenses,G-cash
+526,10/18/2024,wifi load (family access),199,Expenses,G-cash
+527,10/19/2024,Supa,125,Expenses,G-cash
+528,10/22/2024,Kape 2x,260,Expenses,Stash
+529,10/22/2024,YT Membership,129,Expenses,G-cash
+530,10/23/2024,sabon panlaba,8,Expenses,Stash
+531,10/23/2024,Supa,125,Expenses,G-cash
+532,10/24/2024,Supa,125,Expenses,G-cash
+533,10/25/2024,letson,10000,Expenses,Stash
+534,10/25/2024,Supa,25,Expenses,G-cash
+535,10/26/2024,tuba,200,Expenses,Stash
+536,10/26/2024,wifi load (family access),199,Expenses,G-cash
+537,10/30/2024,sura,15,Expenses,Stash
+538,10/30/2024,steam (outlast),92,Expenses,G-cash
+539,10/31/2024,tuba,150,Expenses,Stash
+540,10/31/2024,サラリー,13241,Income,Bank
+541,11/2/2024,arot,35,Expenses,Stash
+542,11/3/2024,wifi load (family access),199,Expenses,G-cash
+543,11/5/2024,manok,30,Expenses,Stash
+544,11/5/2024,hotdog,15,Expenses,Stash
+545,11/6/2024,hotdog,15,Expenses,Stash
+546,11/6/2024,Spotify,239,Expenses,G-cash
+547,11/7/2024,hotdog,15,Expenses,Stash
+548,11/7/2024,burger steak,20,Expenses,Stash
+549,11/11/2024,bayad absent,500,Expenses,Stash
+550,11/11/2024,referee,200,Expenses,Stash
+551,11/11/2024,tubig,50,Expenses,Stash
+552,11/11/2024,suhol tubig,20,Expenses,Stash
+553,11/11/2024,disposable cups,40,Expenses,Stash
+554,11/12/2024,sura,45,Expenses,Stash
+555,11/12/2024,Kape 2x,265,Expenses,Stash
+556,11/12/2024,歳末のボーナス,27000,Income,Bank
+557,11/12/2024,cash gift,5000,Income,Bank
+558,11/12/2024,サラリー,14752,Income,Bank
+559,11/13/2024,sura,30,Expenses,Stash
+560,11/13/2024,gasolina (oct 24),2325,Expenses,Stash
+561,11/13/2024,balay,5000,Expenses,Stash
+562,11/13/2024,asite,300,Expenses,Stash
+563,11/15/2024,tito dondon,100,Expenses,Stash
+564,11/16/2024,wifi load (family access),199,Expenses,G-cash
+565,11/18/2024,donation - basket ball G11,100,Expenses,Stash
+566,11/18/2024,sura,15,Expenses,Stash
+567,11/19/2024,sura,15,Expenses,Stash
+568,11/19/2024,donation - basket ball G9,100,Expenses,Stash
+569,11/20/2024,donation - basket ball G10,100,Expenses,Stash
+570,11/22/2024,donation - volley ball,100,Expenses,Stash
+571,11/22/2024,sura,45,Expenses,Stash
+572,11/22/2024,YT Membership,129,Expenses,G-cash
+573,11/22/2024,supa,50,Expenses,G-cash
+574,11/24/2024,Gcash cash-in,3000,Withdraw,Stash
+575,11/24/2024,Gcash cash-in,3000,Deposit,G-cash
+576,11/24/2024,wifi load (magic data),699,Expenses,G-cash
+577,11/26/2024,Supa,125,Expenses,G-cash
+578,11/27/2024,Supa,50,Expenses,G-cash
+579,11/29/2024,ballpen,12,Expenses,Stash
+580,11/29/2024,arot,30,Expenses,Stash
+581,11/30/2024,サラリー,13240,Income,Stash
+582,12/4/2024,hotdog,15,Expenses,Stash
+583,12/6/2024,sura,45,Expenses,Stash
+584,12/6/2024,Supa,125,Expenses,G-cash
+585,12/6/2024,supa,50,Expenses,G-cash
+586,12/6/2024,supa,125,Expenses,G-cash
+587,12/6/2024,Spotify,239,Expenses,G-cash
+588,12/8/2024,kape blanca,135,Expenses,Stash
+589,12/8/2024,ketchup,35,Expenses,Stash
+590,12/10/2024,hotdog,15,Expenses,Stash
+591,12/11/2024,sura,45,Expenses,Stash
+592,12/13/2024,sura,45,Expenses,Stash
+593,12/14/2024,portfolio day,225,Expenses,Stash
+594,12/16/2024,buy load,503,Expenses,G-cash
+595,12/16/2024,buy load,203,Expenses,G-cash
+596,12/19/2024,mesa de gallo,200,Expenses,Stash
+597,12/19/2024,xmas party,365,Expenses,Stash
+598,12/19/2024,prize,180,Expenses,Stash
+599,12/19/2024,soft drinks,350,Expenses,Stash
+600,12/19/2024,brownies,175,Expenses,Stash
+601,12/20/2024,wifi load (family access),199,Expenses,G-cash
+602,12/21/2024,サラリー,13240,Income,Bank
+603,12/21/2024,第十三月のサラリー,25000,Income,Bank
+604,12/21/2024,gasolina,3000,Expenses,Stash
+605,12/21/2024,balay,6000,Expenses,Stash
+606,12/21/2024,bado,1050,Expenses,Stash
+607,12/21/2024,phone stand,100,Expenses,Stash
+608,12/21/2024,asiti,210,Expenses,Stash
+609,12/22/2024,YT Membership,129,Expenses,G-cash
+610,12/23/2024,pamasahe,25,Expenses,Stash
+611,12/23/2024,pandesal,10,Expenses,Stash
+612,12/23/2024,tubig,15,Expenses,Stash
+613,12/23/2024,pamahaw,160,Expenses,Stash
+614,12/23/2024,paniudto,185,Expenses,Stash
+615,12/23/2024,panigab-i,190,Expenses,Stash
+616,12/23/2024,サラリー,13241,Income,Bank
+617,12/23/2024,withdraw (atm),10000,Withdraw,Bank
+618,12/23/2024,transfer from 09530858208,185,Deposit,G-cash
+619,12/24/2024,aficionado (F28),320,Expenses,Stash
+620,12/24/2024,boxer shorts,798,Expenses,Stash
+621,12/24/2024,sliced bread,180,Expenses,Stash
+622,12/24/2024,eco-bag,28,Expenses,Stash
+623,12/24/2024,pamasahe,140,Expenses,Stash
+624,12/24/2024,kuya huram,200,Expenses,Stash
+625,12/24/2024,red horse (1 case),720,Expenses,Stash
+626,12/25/2024,pamaskuhan,1150,Expenses,Stash
+627,12/25/2024,Steam (until then),399,Expenses,G-cash
+628,12/26/2024,tuba,350,Expenses,Stash
+629,12/28/2024,wifi load (family access),199,Expenses,G-cash
+630,12/29/2024,pandesal,20,Expenses,Stash
+631,12/29/2024,tubig,15,Expenses,Stash
+632,12/29/2024,pamahaw,281,Expenses,Stash
+633,12/29/2024,withdraw (atm),9972,Withdraw,Bank
+634,12/29/2024,eco-bag,26,Expenses,Stash
+635,12/29/2024,bata medyas,69,Expenses,Stash
+636,12/29/2024,bata pajama w/ hood,269,Expenses,Stash
+637,12/29/2024,hoody jacket,263,Expenses,Stash
+638,12/29/2024,t-shirt,279,Expenses,Stash
+639,12/29/2024,pagkaon,250,Expenses,Stash
+640,12/29/2024,grocery,87,Expenses,Stash
+641,12/30/2024,lamesa,1289,Expenses,Stash
+642,12/30/2024,Kape 2x,270,Expenses,Stash
+643,12/31/2024,beer (1 case),720,Expenses,Stash
+644,1/1/2025,kape,5,Expenses,Stash
+645,1/2/2025,tubig,25,Expenses,Stash
+646,1/2/2025,supa,50,Expenses,G-cash
+647,1/2/2025,supa,125,Expenses,G-cash
+648,1/4/2025,gasolina,2100,Expenses,Stash
+649,1/4/2025,balay,7000,Expenses,Stash
+650,1/6/2025,Spotify,239,Expenses,G-cash
+651,1/8/2025,supa,125,Expenses,G-cash
+652,1/10/2025,pasahe (lamingao - catbalogan),150,Expenses,Stash
+653,1/10/2025,pasahe,30,Expenses,Stash
+654,1/10/2025,snack,40,Expenses,Stash
+655,1/10/2025,paniudto,83,Expenses,Stash
+656,1/10/2025,payong,230,Expenses,Stash
+657,1/10/2025,pasahe (catbalogan - villa),130,Expenses,Stash
+658,1/10/2025,pashe (villa - lamingao),200,Expenses,Stash
+659,1/13/2025,pasahe (lamingao - catbalogan),150,Expenses,Stash
+660,1/13/2025,pamahaw,89,Expenses,Stash
+661,1/13/2025,pamasahe,60,Expenses,Stash
+662,1/13/2025,withdraw (atm),20000,Withdraw,Bank
+663,1/13/2025,monitor,5490,Expenses,Stash
+664,1/13/2025,pasahe,10,Expenses,Stash
+665,1/13/2025,pasahe (catbalogan - lamingao),150,Expenses,Stash
+666,1/15/2025,pasahe (lamingao - villa),30,Expenses,Stash
+667,1/15/2025,pasahe (villa - tacloban),120,Expenses,Stash
+668,1/15/2025,pamahaw,184,Expenses,Stash
+669,1/15/2025,pamasahe (terminal - downtown),13,Expenses,Stash
+670,1/15/2025,pamasahe,40,Expenses,Stash
+671,1/15/2025,t-shirt,638,Expenses,Stash
+672,1/15/2025,boxer shorts,599,Expenses,Stash
+673,1/15/2025,burger,42,Expenses,Stash
+674,1/15/2025,pamasahe (tacloban - villa),120,Expenses,Stash
+675,1/15/2025,pamasahe (villa - lamingao),20,Expenses,Stash
+676,1/15/2025,shawarma,300,Expenses,Stash
+677,1/16/2025,サラリー,13201,Income,Bank
+678,1/17/2025,pasahe (lamingao - villa),50,Expenses,Stash
+679,1/17/2025,tinapay,20,Expenses,Stash
+680,1/17/2025,tubig,20,Expenses,Stash
+681,1/17/2025,pamasahe (villa - catbalogan),120,Expenses,Stash
+682,1/17/2025,pamahaw,120,Expenses,Stash
+683,1/17/2025,pamasahe,60,Expenses,Stash
+684,1/17/2025,extension wire,135,Expenses,Stash
+685,1/17/2025,eco-bag,20,Expenses,Stash
+686,1/17/2025,pasahe,10,Expenses,Stash
+687,1/17/2025,tubig,25,Expenses,Stash
+688,1/17/2025,pamasahe (catbalogan - villa),120,Expenses,Stash
+689,1/17/2025,pamasahe (villa - lamingao),100,Expenses,Stash
+690,1/19/2025,Gcash cash-in,1000,Deposit,G-cash
+691,1/19/2025,buy load,503,Expenses,G-cash
+692,1/19/2025,buy load,203,Expenses,G-cash
+693,1/22/2025,YT Membership,129,Expenses,G-cash
+694,1/24/2025,pasahe (lamingao - catbalogan),300,Expenses,Stash
+695,1/24/2025,pamahaw,392,Expenses,Stash
+696,1/24/2025,paperworld,58,Expenses,Stash
+697,1/24/2025,photocopy,18,Expenses,Stash
+698,1/24/2025,pasahe,20,Expenses,Stash
+699,1/25/2025,Gcash cash-in,3400,Deposit,G-cash
+700,1/30/2025,サラリー,13202,Income,Bank
