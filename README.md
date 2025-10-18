@@ -1,6 +1,7 @@
 # Personal Finance Analysis  
 Data analysis portfolio of personal finance management.  
 
+
 ## Overview  
 This project analyzes **personal financial data** to track cash flow, spending behavior, and long-term financial trends.  
 It serves as both:  
@@ -9,7 +10,6 @@ It serves as both:
 
 ⚠️ **Privacy Note**: The full dataset is private. A sanitized **snapshot** is included for demonstration.  
 
----
 
 ## Executive Summary (Key Insights)  
 - **Net Income:** Trend is **increasing overall**, despite seasonal dips. Latest net income ratio = **44%** (well above 20% target).  
@@ -22,7 +22,6 @@ It serves as both:
 
 📊 *Full breakdown with plots and detailed explanations can be found in* [`REPORT.md`](./REPORT.md).  
 
----
 
 ## Data Structure  
 Dataset: single `.csv`, stored in MySQL and cleaned using **pandas**.  
@@ -40,7 +39,7 @@ Dataset: single `.csv`, stored in MySQL and cleaned using **pandas**.
 | y/m, y/m/d       | `object`         | String formats of dates |
 | month_sort_no    | `object`         | Month ordering for plots |
 
----
+
 
 ## Visual Highlights  
 
@@ -59,7 +58,25 @@ Dataset: single `.csv`, stored in MySQL and cleaned using **pandas**.
 ### G-Cash Transactions  
 <img src="images/G-cash Monthly Expenses Trend.png" alt="Gcash Expenses" width="600">  
 
----
+
+## Excel Supplementary Analysis
+
+To demonstrate versatility beyond Python, an **Excel-based version** of the analysis was also developed.  
+It mirrors selected insights from the Jupyter Notebook but is optimized for **manual data exploration, dynamic charts, and pivot-based summaries**.
+
+📂 **Files:** 
+1. [`Personal Finance Excel Analysis.xlsx`](./excel-msqyl-analysis/personal_finance_analysis.xlsx) (*Recommended*)
+
+2. [Google Sheets Version (View Only)](https://docs.google.com/spreadsheets/d/1qS4tt2wCj89iOCNlET80EgMd9cdatZnfHqMfMMO_khE/edit?gid=2014987957#gid=2014987957)
+
+### Highlights:
+- **Automated Dashboard:** Visualizes monthly spending, category breakdowns, and yearly comparisons.  
+- **Findings Sheet:** Contains structured observations for each insight (e.g., *December 2023 spike due to laptop repair*).  
+- **Interactive Components:** Filters and slicers for month/category analysis, and workbook navigation pane using hyperlinks.  
+- **Purpose:** Demonstrates proficiency in Excel data visualization, pivot analysis, and insight documentation.
+
+<img src="excel-msqyl-analysis/images/kpi_preview.png" alt="Excel Dashboard Preview" width="600">
+
 
 ## Installation & Reproducibility  
 To explore or rerun the analysis:  
@@ -68,6 +85,7 @@ To explore or rerun the analysis:
    ```bash
    git clone https://github.com/Ivan-Alexis-Tan/Finance-Manager.git
    cd Finance-Manager
+   ```
 
 2. **Create and activate a virtual environment:**
     ```bash
@@ -85,6 +103,7 @@ To explore or rerun the analysis:
     ```bash
     jupyter notebook "Personal Finance Analysis.ipynb"
     ```
+
 
 ## Skills Demonstrated  
 
